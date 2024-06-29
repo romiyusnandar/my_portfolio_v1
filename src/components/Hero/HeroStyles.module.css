@@ -77,10 +77,6 @@
   cursor: pointer;
 }
 
-.description {
-  max-width: 24ch;
-}
-
 .info {
   display: flex;
   flex-direction: column;

@@ -57,9 +57,10 @@ h1 {
 p {
   font-size: 16px;
   font-weight: 300;
+  max-width: 24ch;
 }
 
-.sectionTile {
+.sectionTitle {
   margin-bottom: 30px;
 }
 

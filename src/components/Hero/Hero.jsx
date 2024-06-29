@@ -46,10 +46,10 @@ const Hero = () => {
             <img src={githubIcon} alt="Github" />
           </a>
         </span>
-        <p className={styles.description}>
+        <p>
           With a passion for developing modern mobile apps for commercial.
         </p>
-        <p className={styles.description}>
+        <p>
           btw the theme is: {theme}
         </p>
         <a href={cv} download>
